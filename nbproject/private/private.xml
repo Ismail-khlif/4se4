@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/inscription.fxml</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/SupprimerNetwork.fxml</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/entities/Network.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/test/Test.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/SupprimerProfil.fxml</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/MainController.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/InscriptionController.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/AjouterNetwork.fxml</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/User.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/ModifierProfil.fxml</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/AjouterNetworkController.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/SupprimerProfilController.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/Main.fxml</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/entities/Profil.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/Firstwindow.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/AffichageProfilController.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/ModifierProfilController.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/SupprimerNetworkController.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/testapplication/AffichageProfil.fxml</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/outils/MyDB.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/services/ProfilCRUD.java</file>
+            <file>file:/C:/Users/Ismail/Documents/NetBeansProjects/4se4/src/services/NetworkCRUD.java</file>
+        </group>
+    </open-files>
+</project-private>
